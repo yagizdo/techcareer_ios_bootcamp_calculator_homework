@@ -1,7 +1,7 @@
-# Swift - Tech Career Bootcamp Calculator Homework
+†# Swift - Tech Career Bootcamp Calculator Homework
 
 Tech Career Bootcamp Homework 5 
-
+- Only the collection process and the clear button are active. And number keys.
 
 ## App Video
 
